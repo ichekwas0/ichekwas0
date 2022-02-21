@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ichekwas0
-- 👀 I’m interested in becoming a great programmer in various languages.
-- 🌱 I’m currently learning Python language.
+- 👀 I’m a software engineer with great work ethic and willingness to learn
+- 🌱 I have big aspirations and I work hard everyday to achieve them.
 - 💞️ I’m looking to collaborate on Python projects of any kind.
 - 📫 How to reach me my email is ifeanyichekwas.ic@gmail.com
 
